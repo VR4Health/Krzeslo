@@ -1,0 +1,52 @@
+﻿Study Static Analysis:1 started: 2016-12-09, 00:22:10
+Number of configurations: 1
+Default mesh: 17749 elements, 28743 nodes
+Solution time 2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2016-12-09, 00:22:13
+Total time 0:00:03
+
+Study Static Analysis:1 started: 2016-12-09, 00:28:50
+Number of configurations: 1
+Default mesh: 17749 elements, 28743 nodes
+Solution time 3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2016-12-09, 00:28:54
+Total time 0:00:04
+
+Study Static Analysis:1 started: 2016-12-09, 00:29:56
+Number of configurations: 1
+Study Static Analysis:1 finished: 2016-12-09, 00:29:56
+Total time 0:00:00
+
+Study Static Analysis:1 started: 2016-12-09, 00:31:18
+Number of configurations: 1
+Study Static Analysis:1 finished: 2016-12-09, 00:31:18
+Total time 0:00:00
+
+Study Static Analysis:1 started: 2016-12-09, 00:44:02
+Number of configurations: 1
+Default mesh: 17450 elements, 28303 nodes
+Mesh at contact 5 is too coarse
+Model separates into 2 independent components
+Soft spring was added
+Solution time 3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 2016-12-09, 00:44:08
+Total time 0:00:06
+
+Study Static Analysis:1 started: 2016-12-09, 00:49:35
+Number of configurations: 1
+Default mesh: 17450 elements, 28303 nodes
+Mesh at contact 5 is too coarse
+Model separates into 2 independent components
+Soft spring was added
+Solution time 2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 2016-12-09, 00:49:38
+Total time 0:00:03
+
